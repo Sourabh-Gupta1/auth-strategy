@@ -1,3 +1,2 @@
-# login_app
-A Login App Strategy Implemented Through NodeJS, Express, Mongoose And PassPortJs. Integerate In Your App For A Complete User 
-Login System.
+# Auth Strategy.
+Google Auth 2.0 and Local strategy implemented using NodeJS, Express, Mongoose And PassPortJs. Can be easily integerated in your Node app.
